@@ -1,0 +1,422 @@
+
+{
+"classes": {
+    "metadata_type": "ApexClass",
+    "file_extension": ".cls"
+  },
+
+  "cspTrustedSites": {
+    "metadata_type": "CspTrustedSite",
+    "file_extension": [".cspTrustedSite-meta.xml"]
+  },
+
+  "certs": {
+    "metadata_type": "Certificate",
+    "file_extension": [".crt-meta.xml"]
+  },
+  
+
+  "lwc_components": {
+    "metadata_type": "LightningWebComponent",
+    "member_level": 2
+  },
+
+  "aura": {
+    "metadata_type": "AuraDefinitionBundle"
+  },
+
+  "tabs": {
+    "metadata_type": "CustomTab",
+    "file_extension": ".tab-meta.xml"
+  },
+
+  "permissionsets": {
+    "metadata_type": "PermissionSet",
+    "file_extension": ".permissionset-meta.xml"
+  },
+
+  "staticresources": {
+    "metadata_type": "StaticResource",
+    "file_extension": ".*"
+  },
+
+  "wave_dataflow": {
+    "metadata_type": "WaveDataflow",
+    "file_extensions": [".wdf",".wdf-meta.xml"]
+  },
+  "wave_recipe": {
+    "metadata_type": "WaveRecipe",
+    "file_extensions": [".wdpr", ".wdpr-meta.xml"]
+  },
+  "wave_xmd": {
+    "metadata_type": "WaveXmd",
+    "file_extensions": [".xmd", ".xmd-meta.xml"]  
+  },
+
+  "wave_wdash": {
+    "metadata_type": "WaveDashboard",
+    "file_extensions": [".wdash", ".wdash-meta.xml"]
+  },
+
+
+
+  "wave_wcomp": {
+    "metadata_type": "WaveComponent",
+    "file_extensions": [".wcomp", ".wcomp-meta.xml"]
+  },
+
+  "wave_wapp": {
+    "metadata_type": "WaveApplication",
+    "file_extensions": [".wapp", ".wapp-meta.xml"]
+  },
+
+  "wave_wds": {
+    "metadata_type": "WaveDataset",
+    "file_extensions": [".wds", ".wds-meta.xml"]
+  },
+
+  "wave": {
+    "metadata_type": "WaveApplication",
+    "file_extensions": [".wapp", ".wapp-meta.xml"]
+  },
+ 
+
+  "customPermissions": {
+    "metadata_type": "CustomPermission",
+    "file_extension": [".customPermission-meta.xml"]
+  },
+
+  "labels": {
+    "metadata_type": "CustomLabels",
+    "file_extension": ".labels-meta.xml"
+  },
+
+  "applications": {
+    "metadata_type": "CustomApplication",
+    "file_extension": [".app-meta.xml"]
+  },
+
+  "approvalProcesses": {
+    "metadata_type": "ApprovalProcess",
+    "file_extension": ".approvalProcess-meta.xml"
+  },
+
+  "assignmentRules": {
+    "metadata_type": "AssignmentRules",
+    "file_extension": ".assignmentRules-meta.xml"
+  },
+
+  "audience": {
+    "metadata_type": "Audience",
+    "file_extension": ".audience-meta.xml"
+  },
+
+  "brandingSets": {
+    "metadata_type": "BrandingSet",
+    "file_extension": [".brandingSet-meta.xml"]
+  },
+
+  "campaignInfluenceModels": {
+    "metadata_type": "CampaignInfluenceModel",
+    "file_extension": [".campaignInfluenceModel-meta.xml"]
+  },
+
+  "connectedApps": {
+    "metadata_type": "ConnectedApp",
+    "file_extension": [".connectedApp-meta.xml"]
+  },
+
+  "contentassets": {
+    "metadata_type": "ContentAsset",
+    "file_extensions": [".asset", ".asset-meta.xml"]
+  },
+
+  "customMetadata": {
+    "metadata_type": "CustomMetadata",
+    "file_extension": [".md-meta.xml"]
+  },
+
+  "dashboards": {
+    "metadata_type": "Dashboard",
+    "file_extension": ".dashboard-meta.xml",
+    "comments": "TODO"
+  },
+
+  "datacategorygroups": {
+    "metadata_type": "DataCategoryGroup",
+    "file_extension": ".datacategorygroup-meta.xml"
+  },
+
+  "delegateGroups": {
+    "metadata_type": "DelegateGroup",
+    "file_extension": [".delegateGroup-meta.xml"]
+  },
+
+  "documents": {
+    "metadata_type": "Document",
+    "file_extension": ".document-meta.xml",
+    "comments": "TODO"
+  },
+
+  "duplicateRules": {
+    "metadata_type": "DuplicateRule",
+    "file_extension": [".duplicateRule-meta.xml"]
+  },
+
+  "email": {
+    "metadata_type": "EmailTemplate",
+    "file_extension": ".email-meta.xml",
+    "comments": "TODO: support *.email"
+  },
+
+
+  "experiences": {
+    "metadata_type": "ExperienceBundle",
+    "file_extension": [".site-meta.xml"],
+    "comments": "TODO: double check"
+  },
+
+  "externalCredentials": {
+    "metadata_type": "ExternalCredential",
+    "file_extension": [".externalCredential-meta.xml"]
+  },
+
+  "fieldSets": {
+    "metadata_type": "FieldSet",
+    "file_extension": [".fieldSet-meta.xml"]
+  },
+
+  "flexipages": {
+    "metadata_type": "FlexiPage",
+    "file_extension": [".flexipage-meta.xml"]
+  },
+
+  "flowDefinitions": {
+    "metadata_type": "FlowDefinition",
+    "file_extension": [".flowDefinition-meta.xml"]
+  },
+
+  "flows": {
+    "metadata_type": "Flow",
+    "file_extension": [".flow-meta.xml"]
+  },
+
+  "globalValueSets": {
+    "metadata_type": "GlobalValueSet",
+    "file_extension": [".globalValueSet-meta.xml"]
+  },
+
+  "groups": {
+    "metadata_type": "Group",
+    "file_extension": [".group-meta.xml"]
+  },
+
+  "layouts": {
+    "metadata_type": "Layout",
+    "file_extension": [".layout-meta.xml"]
+  },
+  "LeadConvertSettings": {
+    "metadata_type": "LeadConvertSettings",
+    "file_extension": [".LeadConvertSetting-meta.xml"]
+  },
+
+
+  "letterhead": {
+    "metadata_type": "Letterhead",
+    "file_extension": [".letter-meta.xml"]
+  },
+
+  "lightningExperienceThemes": {
+    "metadata_type": "LightningExperienceTheme",
+    "file_extension": [".lightningExperienceTheme-meta.xml"]
+  },
+
+  "lwc": {
+    "metadata_type": "LightningComponentBundle"
+  },
+
+  "matchingRules": {
+    "metadata_type": "MatchingRules",
+    "file_extension": [".matchingRule-meta.xml"]
+  },
+
+  "messageChannels": {
+    "metadata_type": "LightningMessageChannel",
+    "file_extension": ".messageChannel-meta.xml"
+  },
+
+  "namedCredentials": {
+    "metadata_type": "NamedCredential",
+    "file_extension": [".namedCredential-meta.xml"]
+  },
+
+  "navigationMenus": {
+    "metadata_type": "NavigationMenu",
+    "file_extension": [".navigationMenu-meta.xml"]
+  },
+
+  "networks": {
+    "metadata_type": "Network",
+    "file_extension": [".network", ".network-meta.xml"],
+    "comments": "TODO: support for .network"
+  },
+
+  "notificationtypes": {
+    "metadata_type": "CustomNotificationType",
+    "file_extension": [".notiftype-meta.xml"]
+  },
+
+  "fieldTranslation": {
+    "metadata_type": "CustomFieldTranslation",
+    "file_extension": ".fieldTranslation-meta.xml"
+  },
+
+  "objectTranslations": {
+    "metadata_type": "CustomObjectTranslation",
+    "file_extension": ".objectTranslation-meta.xml"
+  },
+
+
+  "objects": {
+    "metadata_type": "CustomObject",
+    "file_extension": ".object-meta.xml"
+  },
+
+  "indexes": {
+    "metadata_type": "Index",
+    "file_extension": ".index-meta.xml"
+  },
+
+
+  "pages": {
+    "metadata_type": "ApexPage",
+    "file_extension": ".page-meta.xml"
+  },
+
+  "pathAssistants": {
+    "metadata_type": "PathAssistant",
+    "file_extension": ".pathAssistant-meta.xml"
+  },
+
+  "permissionsetgroups": {
+    "metadata_type": "PermissionSetGroup",
+    "file_extension": ".permissionsetgroup-meta.xml"
+  },
+
+  "permissionsets": {
+    "metadata_type": "PermissionSet",
+    "file_extension": ".permissionset-meta.xml"
+  },
+
+  "platformEventChannelMembers": {
+    "metadata_type": "PlatformEventChannelMember",
+    "file_extension": ".platformEventChannelMember-meta.xml"
+  },
+
+  "platformEventChannels": {
+    "metadata_type": "PlatformEventChannel",
+    "file_extension": ".platformEventChannel-meta.xml"
+  },
+
+  "profiles": {
+    "metadata_type": "Profile",
+    "file_extension": ".profile-meta.xml"
+  },
+
+  "queues": {
+    "metadata_type": "Queue",
+    "file_extension": ".queue-meta.xml"
+  },
+
+  "quickActions": {
+    "metadata_type": "QuickAction",
+    "file_extension": ".quickAction-meta.xml"
+  },
+
+  "recommendationStrategies": {
+    "metadata_type": "RecommendationStrategy",
+    "file_extension": ".recommendationStrategy-meta.xml"
+  },
+
+  "remoteSiteSettings": {
+    "metadata_type": "RemoteSiteSetting",
+    "file_extension": ".remoteSite-meta.xml"
+  },
+
+
+  "reportTypes": {
+    "metadata_type": "ReportType",
+    "file_extension": ".reportType-meta.xml"
+  },
+
+  "reportFolder": {
+    "metadata_type": "ReportFolder",
+    "file_extension": ".reportFolder-meta.xml"
+  },
+
+  "reports": {
+    "metadata_type": "Report",
+    "file_extension": ".report-meta.xml"
+  },
+
+
+  "restrictionRules": {
+    "metadata_type": "RestrictionRule",
+    "file_extension": ".rule-meta.xml"
+  },
+  "roles": {
+    "metadata_type": "Role",
+    "file_extension": ".role-meta.xml"
+  },
+  "settings": {
+    "metadata_type": "Settings",
+    "file_extension": ".settings-meta.xml"
+  },
+
+  "sharingRules": {
+    "metadata_type": "SharingRules",
+    "file_extension": ".sharingRules-meta.xml"
+  },
+
+  "sharingSets": {
+    "metadata_type": "SharingSet",
+    "file_extension": ".sharingSet-meta.xml"
+  },
+
+  "sites": {
+    "metadata_type": "CustomSite",
+    "file_extension": [".site", ".site-meta.xml"]
+  },
+
+  "standardValueSets": {
+    "metadata_type": "StandardValueSet",
+    "file_extension": [".standardValueSet-meta.xml"]
+  },
+
+  "territory2Models": {
+    "metadata_type": "Territory2Model",
+    "file_extension": [".territory2Rule-meta.xml"]
+  },
+
+  "territory2Types": {
+    "metadata_type": "Territory2Type",
+    "file_extension": [".territory2Type-meta.xml"]
+  },
+ 
+
+
+  "triggers": {
+    "metadata_type": "ApexTrigger",
+    "file_extension": [".trigger", ".trigger-meta.xml"]
+  },
+
+  "workflows": {
+    "metadata_type": "Workflow",
+    "file_extension": [".workflow-meta.xml"]
+  },
+  "mutingpermissionsets": {
+    "metadata_type": "MutingPermissionSet",
+    "file_extension": [".mutingpermissionset-meta.xml"]
+  }
+
+}
